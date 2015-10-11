@@ -1,6 +1,7 @@
 name: opos
 favicon: null
 layout_spectrum: 1
+title: Test
 cta:
   domain: null
   bucket: null
