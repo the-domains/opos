@@ -1,26 +1,39 @@
-name: opos
-favicon: null
-layout_spectrum: 1
 title: Test
+purpose:
+  - name: engagement
+    url: null
+    item: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 0.2222222
+  brandColors: []
+  rhythmicContrast: 0.6989247
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: opos
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose:
-  - name: engagement
-    item: null
-    url: null
+typography_spectrum: 0.2204301
+layout_spectrum: 1
