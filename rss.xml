@@ -4,8 +4,15 @@
         <description><![CDATA[Test]]></description>
         <link>https://thegrid.ai/opos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 02:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2015 02:15:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/opos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flamenco]]></title>
+            <description><![CDATA[<article><h1>Flamenco</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8826cbb-369f-4671-a50c-8d9255d24619.jpg"></article>]]></description>
+            <link>https://thegrid.ai/opos/flamenco/index.html</link>
+            <guid isPermaLink="false">622e88bb-5199-4621-9fce-c626dcfab60b</guid>
+            <pubDate>Thu, 29 Oct 2015 02:14:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/955049d3-8851-493a-ae81-c98744471219.jpg">]]></description>
